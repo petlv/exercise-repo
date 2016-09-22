@@ -6,4 +6,7 @@ this is change 1
 this is change 2
 
 another change with GitBash
+
 change with GitBash in the master branch
+
+change with GitBash using branch GitBranchDevelop
